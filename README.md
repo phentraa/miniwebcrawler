@@ -47,7 +47,7 @@ A 4. iterációt megvalósító __crawler_cli.py__ önmagában futtatható.
 2.iteráció: **crawler_iterations/crawler_iteration_2.py**
 - függvényekbe szervezés
 - RESPONSE státuszkódjának ellenőrzése
-- reguláris kifejezések használata  ('<a href=...>' ill. az azokban található url-ek)
+- reguláris kifejezések használata  (link tag-ek ill. az azokban található url-ek)
 
 3.iteráció: **crawler_iterations/crawler_iteration_3.py**
 - rekurzivitás megvalósítása max. 1 mélységig
